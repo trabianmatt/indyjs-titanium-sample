@@ -1,11 +1,11 @@
 {
   "name":"indy.js",
-  "version":"0.0.1",
+  "version":"0.0.2",
   "private":true,
   "description":"Mobile app",
   "dependencies":
   {
-    "titanium-backbone": "0.0.x",
+    "titanium-backbone": "0.1.x",
     "titanium-backbone-ks": "0.0.x"
   },
   "stitch":

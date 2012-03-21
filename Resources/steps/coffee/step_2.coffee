@@ -1,3 +1,5 @@
+# Now: Add a heading.
+
 window = Ti.UI.createWindow
   backgroundColor: '#eee'
 
@@ -12,3 +14,5 @@ label = Ti.UI.createLabel
 window.add label
 
 window.open()
+
+# Next: Let's move that heading to the top.

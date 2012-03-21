@@ -1,3 +1,5 @@
+# Now: Let's add the content block.
+
 window = Ti.UI.createWindow
   backgroundColor: '#eee'
   layout: 'vertical'
@@ -23,3 +25,5 @@ contentBlock = Ti.UI.createView
 window.add contentBlock
 
 window.open()
+
+# Next: Give that block some room.

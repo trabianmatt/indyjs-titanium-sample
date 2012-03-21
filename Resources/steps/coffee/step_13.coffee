@@ -1,3 +1,5 @@
+# Now: Oops. Let's fix that.
+
 Ti.include '../lib/underscore.js'
 
 styles =
@@ -73,3 +75,5 @@ layout.add button
 window.add layout
 
 window.open()
+
+# Next: Oh right, we can include other files.

@@ -1,3 +1,5 @@
+# Now: Well that's a start, let's extend that pattern.
+
 Ti.include '../lib/underscore.js'
 Ti.include 'styles_1.js'
 
@@ -64,3 +66,5 @@ class WelcomeWindow extends Window
 welcomeWindow = new WelcomeWindow
 
 welcomeWindow.render().open()
+
+# Next: Won't every content block have text?

@@ -1,3 +1,5 @@
+# Now: Oops. Let's fix that.
+
 window = Ti.UI.createWindow
   backgroundColor: '#eee'
 
@@ -30,3 +32,5 @@ layout.add contentBlock
 window.add layout
 
 window.open()
+
+# Next: Time for content in the content block.

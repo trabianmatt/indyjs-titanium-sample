@@ -1,3 +1,5 @@
+# Now: Let's simulate padding on the window.
+
 window = Ti.UI.createWindow
   backgroundColor: '#eee'
   layout: 'vertical'
@@ -29,3 +31,5 @@ layout.add contentBlock
 window.add layout
 
 window.open()
+
+# Next: Oops. Let's fix that.

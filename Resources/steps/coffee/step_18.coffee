@@ -1,3 +1,5 @@
+# Now: Won't every content block have text?
+
 Ti.include '../lib/underscore.js'
 Ti.include 'styles_1.js'
 
@@ -74,3 +76,5 @@ class WelcomeWindow extends Window
 welcomeWindow = new WelcomeWindow
 
 welcomeWindow.render().open()
+
+# Next: I bet the need to simulate padding comes up quite a bit.

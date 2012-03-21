@@ -1,3 +1,5 @@
+# Now: How about some padding?
+
 window = Ti.UI.createWindow
   backgroundColor: '#eee'
   layout: 'vertical'
@@ -15,3 +17,5 @@ label = Ti.UI.createLabel
 window.add label
 
 window.open()
+
+# Next: Let's add the content block.

@@ -1,3 +1,5 @@
+# Now: Time for content in the content block.
+
 window = Ti.UI.createWindow
   backgroundColor: '#eee'
 
@@ -44,3 +46,5 @@ layout.add contentBlock
 window.add layout
 
 window.open()
+
+# Next: Make room for the content.

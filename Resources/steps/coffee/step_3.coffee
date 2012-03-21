@@ -1,3 +1,5 @@
+# Now: Let's move that heading to the top.
+
 window = Ti.UI.createWindow
   backgroundColor: '#eee'
   layout: 'vertical'
@@ -13,3 +15,5 @@ label = Ti.UI.createLabel
 window.add label
 
 window.open()
+
+# Next: How about some padding?

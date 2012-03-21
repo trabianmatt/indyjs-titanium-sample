@@ -1,3 +1,5 @@
+# Now: Time for a button.
+
 window = Ti.UI.createWindow
   backgroundColor: '#eee'
 
@@ -61,3 +63,5 @@ layout.add button
 window.add layout
 
 window.open()
+
+# Next: Extract the styles.

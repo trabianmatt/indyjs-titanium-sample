@@ -1,3 +1,5 @@
+# Now: How about some classes.
+
 Ti.include '../lib/underscore.js'
 Ti.include 'styles_1.js'
 
@@ -55,3 +57,5 @@ layout.add button
 window.view.add layout
 
 window.view.open()
+
+# Next: Well that's a start, let's extend that pattern.

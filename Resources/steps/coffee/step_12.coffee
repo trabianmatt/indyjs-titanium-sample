@@ -1,3 +1,5 @@
+# Now: Extract the styles.
+
 styles =
   window:
     backgroundColor: '#eee'
@@ -71,3 +73,5 @@ layout.add button
 window.add layout
 
 window.open()
+
+# Next: Oops. Let's fix that.

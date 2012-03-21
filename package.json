@@ -1,0 +1,37 @@
+{
+  "name":"indy.js",
+  "version":"0.0.1",
+  "private":true,
+  "description":"Mobile app",
+  "dependencies":
+  {
+    "titanium-backbone": "0.0.x",
+    "titanium-backbone-ks": "0.0.x"
+  },
+  "stitch":
+  {
+    "identifier":"mobileRequire",
+    "output":
+    {
+      "app":"Resources/app-impl.js",
+      "vendor":"Resources/lib",
+      "images":"Resources/images"
+    },
+    "paths":[
+      "src"
+    ]
+  },
+  "mobile":
+  {
+    "id":"indy.js",
+    "name":"indy.js"
+  },
+  "engine":
+  {
+    "node":">= 0.6"
+  },
+  "scripts":
+  {
+    "install":"cake build"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "indy.js-stitch",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Stitch example",
+  "dependencies": {
+    "stitch": "0.3.x"
+  },
+  "engine": {
+    "node":">= 0.6"
+  }
+}

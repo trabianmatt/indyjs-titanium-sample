@@ -1,0 +1,4 @@
+build = require('stitch-up').load __dirname, require './package'
+
+task "build", ->
+  build.tasks.all()
